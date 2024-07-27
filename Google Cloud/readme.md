@@ -16,5 +16,5 @@ https://cloud.google.com/free/docs/free-cloud-features
 30 GB-months standard persistent disk  
 1 GB of outbound data transfer from North America to all region destinations (excluding China and Australia) per month
 
-
+---
 sch: https://www.google.com/search?q=google+cloud+free+tier
