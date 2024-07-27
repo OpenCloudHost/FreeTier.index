@@ -6,3 +6,12 @@ Lander: https://cloud.google.com/free?utm_source=google&utm_medium=cpc&utm_campa
 
 # Features:
 https://cloud.google.com/free/docs/free-cloud-features
+
+# Free Tier products:
+## Compute Engine	
+1 non-preemptible e2-micro VM instance per month in one of the following US regions:
+- Oregon: us-west1
+- Iowa: us-central1
+- South Carolina: us-east1
+30 GB-months standard persistent disk  
+1 GB of outbound data transfer from North America to all region destinations (excluding China and Australia) per month
